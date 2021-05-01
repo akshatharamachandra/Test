@@ -1,0 +1,21 @@
+User >> owner of the file -- created a file
+gropu >> many users to the group--- same acess permission to the grop
+other >> everyboy else who has access to the group.---- set permission for wprld
+
+
+
+Diff b/t above three.
+
+permission system >>> read, write , execute
+
+Read --- Lets us to raed the content in the file.
+
+write ---- lets us to edit the file content such as add, remove, eplace with the content of the file.
+
+Execute --- this lets us run the file with the extension exe, we can't run the file unless the the exwcute command is set up.
+
+characters >>> -rw-rw-r-- 1
+
+-rw >> read the file - represent no execution
+rw- >> read and write the file
+r-- >> read the file
